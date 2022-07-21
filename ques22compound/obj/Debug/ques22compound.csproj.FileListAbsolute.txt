@@ -1,0 +1,6 @@
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques22compound\bin\Debug\ques22compound.exe.config
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques22compound\bin\Debug\ques22compound.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques22compound\bin\Debug\ques22compound.pdb
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques22compound\obj\Debug\ques22compound.csprojResolveAssemblyReference.cache
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques22compound\obj\Debug\ques22compound.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques22compound\obj\Debug\ques22compound.pdb

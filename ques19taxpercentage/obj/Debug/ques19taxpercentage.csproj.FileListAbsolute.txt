@@ -1,0 +1,5 @@
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques19taxpercentage\bin\Debug\ques19taxpercentage.exe.config
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques19taxpercentage\bin\Debug\ques19taxpercentage.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques19taxpercentage\bin\Debug\ques19taxpercentage.pdb
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques19taxpercentage\obj\Debug\ques19taxpercentage.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques19taxpercentage\obj\Debug\ques19taxpercentage.pdb

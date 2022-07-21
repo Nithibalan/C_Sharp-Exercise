@@ -1,0 +1,5 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques4circle\bin\Debug\ques4circle.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques4circle\bin\Debug\ques4circle.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques4circle\bin\Debug\ques4circle.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques4circle\obj\Debug\ques4circle.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques4circle\obj\Debug\ques4circle.pdb

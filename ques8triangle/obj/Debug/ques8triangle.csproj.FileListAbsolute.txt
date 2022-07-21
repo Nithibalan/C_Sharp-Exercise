@@ -1,0 +1,6 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques8triangle\bin\Debug\ques8triangle.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques8triangle\bin\Debug\ques8triangle.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques8triangle\bin\Debug\ques8triangle.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques8triangle\obj\Debug\ques8triangle.csprojResolveAssemblyReference.cache
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques8triangle\obj\Debug\ques8triangle.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques8triangle\obj\Debug\ques8triangle.pdb

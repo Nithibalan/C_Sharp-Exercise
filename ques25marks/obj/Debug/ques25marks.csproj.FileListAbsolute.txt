@@ -1,0 +1,6 @@
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques25marks\bin\Debug\ques25marks.exe.config
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques25marks\bin\Debug\ques25marks.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques25marks\bin\Debug\ques25marks.pdb
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques25marks\obj\Debug\ques25marks.csprojResolveAssemblyReference.cache
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques25marks\obj\Debug\ques25marks.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques25marks\obj\Debug\ques25marks.pdb

@@ -1,0 +1,6 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques11\bin\Debug\ques11.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques11\bin\Debug\ques11.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques11\bin\Debug\ques11.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques11\obj\Debug\ques11.csprojResolveAssemblyReference.cache
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques11\obj\Debug\ques11.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques11\obj\Debug\ques11.pdb

@@ -1,0 +1,5 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques5numerator\bin\Debug\ques5numerator.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques5numerator\bin\Debug\ques5numerator.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques5numerator\bin\Debug\ques5numerator.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques5numerator\obj\Debug\ques5numerator.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques5numerator\obj\Debug\ques5numerator.pdb

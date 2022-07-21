@@ -1,0 +1,5 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques3tank\bin\Debug\ques3tank.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques3tank\bin\Debug\ques3tank.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques3tank\bin\Debug\ques3tank.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques3tank\obj\Debug\ques3tank.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques3tank\obj\Debug\ques3tank.pdb

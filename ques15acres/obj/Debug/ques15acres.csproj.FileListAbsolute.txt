@@ -1,0 +1,5 @@
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques15acres\bin\Debug\ques15acres.exe.config
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques15acres\bin\Debug\ques15acres.exe
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques15acres\bin\Debug\ques15acres.pdb
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques15acres\obj\Debug\ques15acres.exe
+C:\Users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques15acres\obj\Debug\ques15acres.pdb

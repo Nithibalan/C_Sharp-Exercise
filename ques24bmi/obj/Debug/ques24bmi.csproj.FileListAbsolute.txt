@@ -1,0 +1,5 @@
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques24bmi\bin\Debug\ques24bmi.exe.config
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques24bmi\bin\Debug\ques24bmi.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques24bmi\bin\Debug\ques24bmi.pdb
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques24bmi\obj\Debug\ques24bmi.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques24bmi\obj\Debug\ques24bmi.pdb

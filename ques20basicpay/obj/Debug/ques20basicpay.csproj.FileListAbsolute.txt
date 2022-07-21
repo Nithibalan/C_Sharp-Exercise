@@ -1,0 +1,6 @@
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques20basicpay\bin\Debug\ques20basicpay.exe.config
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques20basicpay\bin\Debug\ques20basicpay.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques20basicpay\bin\Debug\ques20basicpay.pdb
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques20basicpay\obj\Debug\ques20basicpay.csprojResolveAssemblyReference.cache
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques20basicpay\obj\Debug\ques20basicpay.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques20basicpay\obj\Debug\ques20basicpay.pdb

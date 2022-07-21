@@ -1,0 +1,6 @@
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques16natural\bin\Debug\ques16natural.exe.config
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques16natural\obj\Debug\ques16natural.csprojResolveAssemblyReference.cache
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques16natural\bin\Debug\ques16natural.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques16natural\bin\Debug\ques16natural.pdb
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques16natural\obj\Debug\ques16natural.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques16natural\obj\Debug\ques16natural.pdb

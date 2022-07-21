@@ -1,0 +1,5 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques7squareroot\bin\Debug\ques7squareroot.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques7squareroot\bin\Debug\ques7squareroot.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques7squareroot\bin\Debug\ques7squareroot.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques7squareroot\obj\Debug\ques7squareroot.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques7squareroot\obj\Debug\ques7squareroot.pdb

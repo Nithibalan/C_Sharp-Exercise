@@ -1,0 +1,5 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques2power\bin\Debug\ques2power.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques2power\bin\Debug\ques2power.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques2power\bin\Debug\ques2power.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques2power\obj\Debug\ques2power.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques2power\obj\Debug\ques2power.pdb

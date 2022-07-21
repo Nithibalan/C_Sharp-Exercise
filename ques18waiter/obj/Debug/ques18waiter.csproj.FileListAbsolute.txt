@@ -1,0 +1,5 @@
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques18waiter\bin\Debug\ques18waiter.exe.config
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques18waiter\bin\Debug\ques18waiter.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques18waiter\bin\Debug\ques18waiter.pdb
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques18waiter\obj\Debug\ques18waiter.exe
+C:\Users\nithi\OneDrive\documents\visual studio 2012\Projects\set1\ques18waiter\obj\Debug\ques18waiter.pdb

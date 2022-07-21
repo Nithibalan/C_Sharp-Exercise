@@ -1,0 +1,5 @@
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques6square\bin\Debug\ques6square.exe.config
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques6square\bin\Debug\ques6square.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques6square\bin\Debug\ques6square.pdb
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques6square\obj\Debug\ques6square.exe
+c:\users\nithi\onedrive\documents\visual studio 2012\Projects\set1\ques6square\obj\Debug\ques6square.pdb
